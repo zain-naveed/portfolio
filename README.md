@@ -13,4 +13,4 @@
 ✔️ Podcast\
 ✔️ Contact me
 
-To view a live example, **[click here](https://aghaaliabbas.github.io/portfolio)**
+To view a live example, **[click here](https://zain-naveed.github.io/portfolio)**
