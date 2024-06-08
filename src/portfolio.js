@@ -48,8 +48,8 @@ const skillsSection = {
 
   softwareSkills: [
     {
-      skillName: "Angular",
-      fontAwesomeClassname: "fab fa-angular",
+      skillName: "reactjs",
+      fontAwesomeClassname: "fab fa-react",
     },
     {
       skillName: "html-5",
@@ -66,10 +66,6 @@ const skillsSection = {
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js",
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react",
     },
     {
       skillName: "nodejs",
