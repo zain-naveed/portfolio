@@ -1,5 +1,20 @@
 ﻿/* Change this file to get your personal Portfolio */
-
+import {
+  AwsIcon,
+  BootstrapIcon,
+  DesignIcon,
+  FirebaseIcon,
+  MaterialIcon,
+  MongoIcon,
+  NestIcon,
+  NextIcon,
+  NodeIcon,
+  ReactIcon,
+  ReduxIcon,
+  SassIcon,
+  StripeIcon,
+  ToolkitIcon,
+} from "./assests";
 // Your Summary And Greeting Section
 
 import emoji from "react-easy-emoji";
@@ -7,7 +22,7 @@ import emoji from "react-easy-emoji";
 const greeting = {
   /* Your Summary And Greeting Section */
   username: "Zain Naveed",
-  title: "Hi all, I'm Zain",
+  title: "Hi, I'm Zain",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Hybrid mobile applications with JavaScript / React / Next / Nodejs / Ionic / React Native and some other cool libraries and frameworks."
   ),
@@ -108,51 +123,68 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Reactjs", //Insert stack or technology you have experience in
+      Stack: "React.js", //Insert stack or technology you have experience in
+      Icon: ReactIcon,
       progressPercentage: "95%", //Insert relative proficiency in percentage
     },
     {
-      Stack: "Nextjs", //Insert stack or technology you have experience in
+      Stack: "Next.js", //Insert stack or technology you have experience in
+      Icon: NextIcon,
+      progressPercentage: "95%", //Insert relative proficiency in percentage
+    },
+    {
+      Stack: "Redux", //Insert stack or technology you have experience in
+      Icon: ReduxIcon,
       progressPercentage: "95%", //Insert relative proficiency in percentage
     },
     {
       Stack: "Sass", //Insert stack or technology you have experience in
+      Icon: SassIcon,
       progressPercentage: "95%", //Insert relative proficiency in percentage
     },
     {
       Stack: "Material UI", //Insert stack or technology you have experience in
+      Icon: MaterialIcon,
       progressPercentage: "95%", //Insert relative proficiency in percentage
     },
     {
       Stack: "Bootstrap", //Insert stack or technology you have experience in
+      Icon: BootstrapIcon,
       progressPercentage: "95%", //Insert relative proficiency in percentage
     },
     {
       Stack: "Stripe", //Insert stack or technology you have experience in
+      Icon: StripeIcon,
       progressPercentage: "95%", //Insert relative proficiency in percentage
     },
     {
       Stack: "Firebase", //Insert stack or technology you have experience in
+      Icon: FirebaseIcon,
       progressPercentage: "90%", //Insert relative proficiency in percentage
     },
     {
       Stack: "Nodejs",
+      Icon: NodeIcon,
       progressPercentage: "85%",
     },
     {
       Stack: "Nestjs",
+      Icon: NestIcon,
       progressPercentage: "85%",
     },
     {
       Stack: "Mongodb",
+      Icon: MongoIcon,
       progressPercentage: "85%",
     },
     {
       Stack: "AWS",
+      Icon: AwsIcon,
       progressPercentage: "70%",
     },
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      Icon: DesignIcon,
       progressPercentage: "95%", //Insert relative proficiency in percentage
     },
   ],

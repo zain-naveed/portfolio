@@ -9,18 +9,14 @@ export default function StackProgress() {
       <Fade bottom duration={1000} distance="20px">
         <div className="skills-container">
           <div className="skills-bar">
-            <h1 className="skills-heading">Proficiency</h1>
+            <h1 className="heading skills-heading">Proficiency</h1>
             <div className="skill-content">
               {techStack.experience.map((exp, index) => {
-                const progressStyle = {
-                  width: exp.progressPercentage,
-                };
                 return (
                   <div className="skill" key={index}>
-                    <p>{exp.Stack}</p>
-                    <div className="meter">
-                      <span style={progressStyle}></span>
-                    </div>
+                    {/* <p>{exp.Stack}</p> */}
+                    <exp.Icon />
+                    {/* {exp.progressPercentage} */}
                   </div>
                 );
               })}

@@ -20,15 +20,18 @@
 .skill-content{
     display: flex;
     flex-wrap: wrap;
-    gap: 1vw;
+    /* gap: 1vw; */
 }
 .skill{
     line-height: 3.5vw;
-    width: 44%;
+    width: 12%;
+    margin: 8px;
     border-radius: 8px;
     box-shadow: 0px 1px 23.6px 0px #0000001C;
-    padding: 32px 26px;
-    padding-top: 0;
+    padding: 50px 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .skill-bars{
     font-size: 28px;
