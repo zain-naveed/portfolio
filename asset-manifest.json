@@ -1,27 +1,41 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.891a8cec.chunk.css",
-    "main.js": "/portfolio/static/js/main.10c7f0f5.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.10c7f0f5.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.3d3a14ea.chunk.css",
+    "main.js": "/portfolio/static/js/main.bef7b534.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bef7b534.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.99bbf566.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.99bbf566.js.map",
     "static/js/2.024cce74.chunk.js": "/portfolio/static/js/2.024cce74.chunk.js",
     "static/js/2.024cce74.chunk.js.map": "/portfolio/static/js/2.024cce74.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.428c05a990ec171945e6413a86337606.js": "/portfolio/precache-manifest.428c05a990ec171945e6413a86337606.js",
+    "precache-manifest.3734aaf9df52b5be1a417f4c8e0b63d9.js": "/portfolio/precache-manifest.3734aaf9df52b5be1a417f4c8e0b63d9.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.891a8cec.chunk.css.map": "/portfolio/static/css/main.891a8cec.chunk.css.map",
+    "static/css/main.3d3a14ea.chunk.css.map": "/portfolio/static/css/main.3d3a14ea.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/aws.b2b9771b.svg": "/portfolio/static/media/aws.b2b9771b.svg",
+    "static/media/bootstrap.50782752.svg": "/portfolio/static/media/bootstrap.50782752.svg",
     "static/media/contactMail.png": "/portfolio/static/media/contactMail.d6d4086f.png",
+    "static/media/design.ecdfc947.svg": "/portfolio/static/media/design.ecdfc947.svg",
     "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/firebase.bbf2ed36.svg": "/portfolio/static/media/firebase.bbf2ed36.svg",
     "static/media/logo.svg": "/portfolio/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.52be3144.svg",
-    "static/media/TalkCard.css": "/portfolio/static/media/talksCardBack.0288c5ec.svg"
+    "static/media/material.a681749b.svg": "/portfolio/static/media/material.a681749b.svg",
+    "static/media/mongo.22f7b0db.svg": "/portfolio/static/media/mongo.22f7b0db.svg",
+    "static/media/nestjs.210c743f.svg": "/portfolio/static/media/nestjs.210c743f.svg",
+    "static/media/nextjs.6b6909a5.svg": "/portfolio/static/media/nextjs.6b6909a5.svg",
+    "static/media/node.206948ec.svg": "/portfolio/static/media/node.206948ec.svg",
+    "static/media/react.c3af0d1d.svg": "/portfolio/static/media/react.c3af0d1d.svg",
+    "static/media/redux.b5597ecf.svg": "/portfolio/static/media/redux.b5597ecf.svg",
+    "static/media/sass.88f1c456.svg": "/portfolio/static/media/sass.88f1c456.svg",
+    "static/media/stripe.bf024e33.svg": "/portfolio/static/media/stripe.bf024e33.svg",
+    "static/media/TalkCard.css": "/portfolio/static/media/talksCardBack.0288c5ec.svg",
+    "static/media/toolkit.dd18f675.svg": "/portfolio/static/media/toolkit.dd18f675.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.99bbf566.js",
     "static/js/2.024cce74.chunk.js",
-    "static/css/main.891a8cec.chunk.css",
-    "static/js/main.10c7f0f5.chunk.js"
+    "static/css/main.3d3a14ea.chunk.css",
+    "static/js/main.bef7b534.chunk.js"
   ]
 }
