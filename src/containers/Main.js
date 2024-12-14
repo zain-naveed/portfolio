@@ -30,8 +30,7 @@ export default class Main extends Component {
         <Talks />
         <Twitter />
         <Podcast /> */}
-        <Profile />
-        {/* <Footer /> */}
+        <Footer />
         <Top />
       </div>
     );

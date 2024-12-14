@@ -20,10 +20,7 @@ export default function Greeting() {
                 <span className="wave-emoji">{emoji("👋")}</span>
               </h1>
               <p className="greeting-text-p subTitle">{greeting.subTitle}</p>
-              <SocialMedia />
-              <div className="button-greeting-div">
-                <Button text="Contact me" href="#contact" />
-              </div>
+             
             </div>
           </div>
           <div className="greeting-image-div">
